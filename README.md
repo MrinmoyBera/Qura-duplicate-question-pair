@@ -1,1 +1,1 @@
-# Qura-duplicate-question-pair
+# Quora-duplicate-question-pair
